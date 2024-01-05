@@ -13,7 +13,13 @@
 8. 가계부 회원가입 mongoDB에 연결
 9. 완료 보고서 작성
 ## 🔌 사용 기술 
-
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  
 
 ## 🌲 디렉토리 구조 
 ![image](https://github.com/Leehyunbum6792/Accountbook/assets/142865344/fd7924fa-7c33-49b1-9acc-5a3d410448f7)
