@@ -45,7 +45,7 @@
 ## 🌲 디렉토리 구조 
 ![image](https://github.com/Leehyunbum6792/Accountbook/assets/142865344/fd7924fa-7c33-49b1-9acc-5a3d410448f7
 ## 주요 기능
-## UI / UX 와이어  프레임
+## UI / UX 와이어  프레임 (Figma)
 ![image](https://github.com/Leehyunbum6792/Accountbook/assets/142865344/9dee6f29-2ccf-4fa0-81ee-5f3305d278e3)
 
 
