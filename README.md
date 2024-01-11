@@ -19,11 +19,11 @@
 8. 가계부 회원가입 mongoDB에 연결
 9. 완료 보고서 작성
 ## 🛠 사용 기술 및 도구
-### **TOOL:** `Github` `Figma` `Notion` `Google spread sheet` `Adobe Illustrator`
+##### **TOOL:** `Github` `Figma` `Notion` `Google spread sheet` `Adobe Illustrator`
   
-### **WEB FRAMEWORK:** `REACT` `JavaScript`
+##### **WEB FRAMEWORK:** `REACT` `JavaScript`
 
-### **LIBRARY:**  `css-module` `Router`
+##### **LIBRARY:**  `css-module` `Router`
 ## 담당 역할
     -부가 기능 담당
     -github page 관리
