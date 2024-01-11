@@ -6,7 +6,7 @@
 2023 December 1 ~  2023 December 21 
 ## 🧑‍🤝‍🧑 팀원 소개
 |프론트 개발|프론트 개발|
-| ------------ | -------------------------------------------------- |
+| ------------ | ----------- |
 |김경석|이현범|
 ## 📰 작업 순서
 1. 팀원들과 어떠한 앱을 만들지 선정 후 역할 분담
@@ -20,9 +20,10 @@
 9. 완료 보고서 작성
 ## 🛠 사용 기술 및 도구
 ##### **TOOL:** `Github` `Figma` `Notion`
+
 ##### **WEB FRAMEWORK:** `REACT` `JavaScript`
 
-##### **LIBRARY:**  `css-module` `Router`
+##### **LIBRARY:**  `module-css` `React-Router-dom` `react-calendar` `rechart`
 ## 담당 역할
     -부가 기능 담당
     -github page 관리
