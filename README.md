@@ -19,8 +19,7 @@
 8. 가계부 회원가입 mongoDB에 연결
 9. 완료 보고서 작성
 ## 🛠 사용 기술 및 도구
-##### **TOOL:** `Github` `Figma` `Notion` `Google spread sheet` `Adobe Illustrator`
-  
+##### **TOOL:** `Github` `Figma` `Notion`
 ##### **WEB FRAMEWORK:** `REACT` `JavaScript`
 
 ##### **LIBRARY:**  `css-module` `Router`
