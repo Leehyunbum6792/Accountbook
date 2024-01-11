@@ -18,24 +18,12 @@
 7. css 퍼블리싱 작업
 8. 가계부 회원가입 mongoDB에 연결
 9. 완료 보고서 작성
-## 🔌 사용 기술 
-<div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <br><br>
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-   <br><br>
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
+## 🛠 사용 기술 및 도구
+#### **TOOL:** `Github` `Figma` `Notion` `Google spread sheet` `Adobe Illustrator`
+  
+#### **WEB FRAMEWORK:** `REACT` `JavaScript`
 
+#### **LIBRARY:**  `css-module` `Router`
 ## 담당 역할
     -부가 기능 담당
     -github page 관리
